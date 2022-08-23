@@ -1,0 +1,120 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.nav-item{
+  /* Meme Generator */
+font-family: 'Karla';
+font-style: normal;
+font-weight: 700;
+font-size: 20.7482px;
+line-height: 24px;
+letter-spacing: -0.1em;
+color: #FFFFFF;
+text-align: center;
+
+
+}
+#sub{
+    font-family: 'Taviraj', serif;  
+font-weight: 1000;
+letter-spacing: 0.1em;
+
+font-size: 12px;
+line-height: 15px;
+}
+.nav{
+  padding-top:10px;
+  padding-bottom:13px;
+   background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+;
+}
+.img{
+  position: relative;
+  top:7px;
+  height: 47px;
+  width: 43px;
+  margin-left:-50px;
+}
+.form{
+  margin-top:40px;
+  text-align: center;
+}
+.form-control{
+  margin-right:7px;
+  width:270px;
+  height:32px;
+  border: 1px solid #D5D4D8;
+border-radius: 5px;
+}
+.submit{
+  margin-top:20px;
+  width:570px;
+  height:40px;
+  border-radius: 9px;
+     background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+
+}
+.getMeme{
+  margin-top :30px;
+  width: 700px;
+  height: 360px;
+}
+.toptext{
+  position: absolute;
+    width: 80%;
+    text-align: center;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 40px 0;
+    padding: 0 5px;
+    font-family: impact, sans-serif;
+    font-size: 2em;
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 1px;
+    text-shadow:
+        2px 2px 0 #000,
+        -2px -2px 0 #000,
+        2px -2px 0 #000,
+        -2px 2px 0 #000,
+        0 2px 0 #000,
+        2px 0 0 #000,
+        0 -2px 0 #000,
+        -2px 0 0 #000,
+        2px 2px 5px #000;
+}
+.bottomtext{
+  position: absolute;
+    width: 80%;
+    text-align: center;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: -44px 0;
+    padding: 0 5px;
+    font-family: impact, sans-serif;
+    font-size: 2em;
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 1px;
+    text-shadow:
+        2px 2px 0 #000,
+        -2px -2px 0 #000,
+        2px -2px 0 #000,
+        -2px 2px 0 #000,
+        0 2px 0 #000,
+        2px 0 0 #000,
+        0 -2px 0 #000,
+        -2px 0 0 #000,
+        2px 2px 5px #000;
+}
+
